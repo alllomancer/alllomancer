@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Dan 👋
 
-<!--
-**alllomancer/alllomancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff-level DevSecOps and platform engineer based in Prague. I design secure,
+self-service cloud platforms (AWS, GCP, Kubernetes) under FedRAMP, SOC 2 and PCI.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🔧 [k8s-workshop](https://github.com/alllomancer/k8s-workshop): hands-on Kubernetes course I've taught to ~300 developers
+- 🛡️ [devsecops-pipeline-example](https://github.com/alllomancer/devsecops-pipeline-example): secrets, image and IaC scanning in CI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Talks
+- Fail Loudly: DevOps Israel Meetup
+- Monorepo, The Zip Way: DevOpsDays 2019
+- Zen of Production Incident Management: Statscraft 2019
+- Organizer: DevOpsDays Prague 2026
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/dan-yelovitch/)
